@@ -21,6 +21,7 @@ This project demonstrates core OOP principles and best practices through real-wo
 
 ## Getting Started  ->  Admin Login
 - Use the following credentials to log in as an administrator: ID: **ADMIN**,  PASSWORD: **ADMIN**
+- Runnable JAR file added
 
 ## Course Context
 
